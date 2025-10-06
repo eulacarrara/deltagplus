@@ -13,8 +13,8 @@
   
 <br>
 
-### Árvore genealógica do melhoramento genético animal do Brasil [aqui](https://deltagplus.github.io)
-#### Sankey diagram by [Haniel Cedraz](https://github.com/hanielcedraz)
+### Árvore genealógica do melhoramento genético animal do Brasil [AQUI]( https://eulacarrara.shinyapps.io/arvoregenealmelhgenbrasil/)
+Plots by [Haniel Cedraz](https://github.com/hanielcedraz)
   
 <br>
   
