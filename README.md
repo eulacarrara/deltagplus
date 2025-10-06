@@ -13,9 +13,9 @@
   
 <br>
 
-### Árvore genealógica do melhoramento genético animal do Brasil [AQUI]( https://eulacarrara.shinyapps.io/arvoregenealmelhgenbrasil/)
-Visualização não otimizada para celulares e tablets. Prefira acessar pelo computador.
-by [Haniel Cedraz](https://github.com/hanielcedraz)
+### Árvore genealógica do melhoramento genético animal do Brasil [AQUI]( https://eulacarrara.shinyapps.io/arvoregenealmelhgenbrasil/)  
+Visualização não otimizada para celulares e tablets. Prefira acessar pelo computador.  
+Plots e deploy by [Haniel Cedraz](https://github.com/hanielcedraz)
   
 <br>
   
