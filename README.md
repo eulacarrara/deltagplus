@@ -1,12 +1,13 @@
 # Delta G + 
 
-##### Melhoramento genético animal  
+#### Melhoramento genético animal  
 
 #### Aulas gratuitas sobre avaliação genética animal: [Tutoriais para avaliação genética animal](https://www.youtube.com/@deltagplus)
 
 <br>
 
-- Permanent link: [deltagplus.github.io](https://deltagplus.github.io)  
+#### Minhas redes
+- Permanent link: [deltagplus.github.io](https://eulacarrara.github.io/deltagplus)  
 - Lattes: [lattes.cnpq.br](http://lattes.cnpq.br/5199216087123978)  
 - ResearchGate: [researchgate.net](http://www.researchgate.net/profile/Eula-Carrara)  
 - Linkedin: [linkedin.com](https://www.linkedin.com/in/eulacarrara/)
@@ -28,7 +29,7 @@ Plots e deploy by [Haniel Cedraz](https://github.com/hanielcedraz)
 - Modelo animal multicaracteristico (em breve)
 - Modelo de repetibilidade multicaracteristico com efeitos maternos (em breve)
 - Modelo de regressão aleatória e normas de reação (em breve)
-- Predição genômica (em breve)
+- Predição genômica - ssGBLUP (em breve)
 - Estudos de associação genômica ampla - GWAS (em breve)  
   
 ### * Tutoriais e resoluções nos programas BLUPF90 - vídeoaulas no YouTube
@@ -38,21 +39,21 @@ Plots e deploy by [Haniel Cedraz](https://github.com/hanielcedraz)
 - [Análises triviais de modelos mistos](https://www.youtube.com/watch?v=wHdE-2cEwow)
 - [Modelo animal simples, com um efeito fixo + efeito de animal](https://www.youtube.com/watch?v=O9TDhq9p-Cg)
 - [Modelo de repetibilidade](https://www.youtube.com/watch?v=ByYlVy75d7A)
-- Modelo com efeitos maternos (em breve)
+- [Modelo com efeitos maternos](https://www.youtube.com/watch?v=Pqtc2XYpKIY)
 - Modelo animal multicaracteristico (em breve)
 - Modelo de repetibilidade multicaracteristico com efeitos maternos (em breve)
 - Modelo de regressão aleatória e normas de reação (em breve)
-- Predição genômica (em breve)
+- Predição genômica - ssGBLUP (em breve)
 - Estudos de associação genômica ampla - GWAS (em breve)  
   
 ### * Tutoriais e resoluções em R - vídeoaulas no YouTube
 - [Modelo animal simples, com um efeito fixo + efeito de animal](https://www.youtube.com/watch?v=dQatiIB9jL4)
 - [Modelo de repetibilidade](https://www.youtube.com/watch?v=62c08hO4Bt4)
-- Modelo com efeitos maternos (em breve)
+- [Modelo com efeitos maternos](https://www.youtube.com/watch?v=6_LdTYFNYDI)
 - Modelo animal multicaracteristico (em breve)
 - Modelo de repetibilidade multicaracteristico com efeitos maternos (em breve)
 - Modelo de regressão aleatória e normas de reação (em breve)
-- Predição genômica (em breve)
+- Predição genômica - ssGBLUP (em breve)
 - Estudos de associação genômica ampla - GWAS (em breve)  
 
 ### * Scripts em R (sem vídeo explicativo)
