@@ -22,6 +22,8 @@ Clique [AQUI](https://www.animalgenome.org/lush/), faça login ou crie seu usuá
 * Contribute data to the pedigree --> Contribute your data  
   
 <br>
+<img width="1167" height="630" alt="image" src="https://github.com/user-attachments/assets/aaadc4a4-7b2e-4974-8c63-5051166e5543" /> 
+<br>
   
 ## Conteúdo em Português (Brasil)  
 
