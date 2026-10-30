@@ -24,7 +24,13 @@ Clique [AQUI](https://www.animalgenome.org/lush/), faça login ou crie seu usuá
 <br>
 <img width="1037" height="508" alt="image" src="https://github.com/user-attachments/assets/e63ea3f2-4471-4fc0-8590-cb4d1cda28c2" />
 <br>
-  
+
+### Compilado de artigos importantes para a história do melhoramento genético animal
+- Português PT-BR: [clique aqui](Linha_do_Tempo_Melhoramento_Genetico_Animal_compressed.pdf)
+
+### A compilation of important articles in the history of animal breeding
+- English: [clique aqui](Timeline_Animal_Breeding_compressed.pdf)
+
 ## Conteúdo em Português (Brasil)  
 
 ### * Resoluções à mão - vídeoaulas no YouTube
